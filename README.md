@@ -13,7 +13,7 @@ This project is a starting point for a Flutter application.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/your_repository.git
+   git clone (https://github.com/Laxmikant2002/Login_page_using_bloc_flutter)
    ```
 2. Navigate to the project directory:
     ```sh
